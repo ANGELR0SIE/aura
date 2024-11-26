@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sleeveless Satin Shirred Dress with Frill Edges - Burgundy",
+      "description": "A luxurious satin dress with shirred design and frill edges, perfect for evening wear.",
+      "price": 59.99,
+      "offer_price": 49.99,
+      "ratings": 4.6,
+      "colors": ["Burgundy"],
+      "size": ["S", "M", "L"],
+      "quality": "Satin",
+      "material": "Soft, glossy",
+      "keywords": [
+        "sleeveless",
+        "satin",
+        "frill edges",
+        "evening wear",
+        "burgundy",
+        "women's fashion"
+      ],
+      "images": {
+        "main": "images/burgundy-satin-dress-main.jpg",
+        "hover": "images/burgundy-satin-dress-hover.jpg",
+        "carousel": [
+          "images/burgundy-satin-dress-1.jpg",
+          "images/burgundy-satin-dress-2.jpg"
+        ]
+      },
+      "stock": 30,
+      "special_offers": ["10% off", "Free shipping"]
+    },
+    {
+      "id": 2,
+      "name": "Flowing Midi Skirt - Black",
+      "description": "A graceful black midi skirt with a flowing design, ideal for both casual and formal wear.",
+      "price": 39.99,
+      "offer_price": 34.99,
+      "ratings": 4.4,
+      "colors": ["Black"],
+      "size": ["S", "M", "L"],
+      "quality": "Polyester Blend",
+      "material": "Light, breathable",
+      "keywords": [
+        "midi skirt",
+        "black skirt",
+        "flowing skirt",
+        "women's fashion",
+        "casual wear"
+      ],
+      "images": {
+        "main": "images/black-midi-skirt-main.jpg",
+        "hover": "images/black-midi-skirt-hover.jpg",
+        "carousel": [
+          "images/black-midi-skirt-1.jpg",
+          "images/black-midi-skirt-2.jpg"
+        ]
+      },
+      "stock": 50,
+      "special_offers": ["15% off", "Buy 1 get 1 20% off"]
+    },
+    {
+      "id": 3,
+      "name": "Satin Slip Dress - Emerald Green",
+      "description": "Elegant satin slip dress in emerald green, perfect for special occasions or night outs.",
+      "price": 69.99,
+      "offer_price": 59.99,
+      "ratings": 4.8,
+      "colors": ["Emerald Green"],
+      "size": ["S", "M", "L"],
+      "quality": "Satin",
+      "material": "Soft, luxurious",
+      "keywords": [
+        "slip dress",
+        "emerald green",
+        "satin",
+        "evening wear",
+        "special occasion"
+      ],
+      "images": {
+        "main": "images/emerald-slip-dress-main.jpg",
+        "hover": "images/emerald-slip-dress-hover.jpg",
+        "carousel": ["images/emerald-slip-dress-1.jpg"]
+      },
+      "stock": 25,
+      "special_offers": ["20% off"]
+    },
+    {
+      "id": 3,
+      "name": "Satin Slip Dress - Emerald Green",
+      "description": "Elegant satin slip dress in emerald green, perfect for special occasions or night outs.",
+      "price": 69.99,
+      "offer_price": 59.99,
+      "ratings": 4.8,
+      "colors": ["Emerald Green"],
+      "size": ["S", "M", "L"],
+      "quality": "Satin",
+      "material": "Soft, luxurious",
+      "keywords": [
+        "slip dress",
+        "emerald green",
+        "satin",
+        "evening wear",
+        "special occasion"
+      ],
+      "images": {
+        "main": "images/emerald-slip-dress-main.jpg",
+        "hover": "images/emerald-slip-dress-hover.jpg",
+        "carousel": ["images/emerald-slip-dress-1.jpg"]
+      },
+      "stock": 25,
+      "special_offers": ["20% off"]
+    },
+    {
+      "id": 4,
+      "name": "Pleated Skirt - Light Beige",
+      "description": "A chic light beige pleated skirt, perfect for casual days or office wear.",
+      "price": 49.99,
+      "offer_price": 44.99,
+      "ratings": 4.3,
+      "colors": ["Light Beige"],
+      "size": ["S", "M", "L"],
+      "quality": "Cotton Blend",
+      "material": "Soft, durable",
+      "keywords": [
+        "pleated skirt",
+        "light beige",
+        "cotton blend",
+        "casual",
+        "office wear"
+      ],
+      "images": {
+        "main": "images/light-beige-pleated-skirt-main.jpg",
+        "hover": "light-beige-pleated-skirt-hover.jpg",
+        "carousel": [
+          "images/light-beige-pleated-skirt-1.jpg",
+          "images/light-beige-pleated-skirt-2.jpg"
+        ]
+      },
+      "stock": 60,
+      "special_offers": ["10% off"]
+    }
+  ]
+}
